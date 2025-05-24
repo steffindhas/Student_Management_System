@@ -26,7 +26,6 @@ This project is a CRUD-based web application using Spring Boot and Thymeleaf. It
 - Created 4 pages using Thymeleaf, HTML, CSS, and JavaScript:
   - Home Page
   - Add Student Page
-  - View Students Page
   - Edit Student Page  
 - RESTful APIs tested with **Postman**
 - Add, update, view, and delete student records
