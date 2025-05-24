@@ -47,10 +47,7 @@ This project is a CRUD-based web application using Spring Boot and Thymeleaf. It
 ### 3. View Students  
 ![View Students](screenshots/view_students.png)
 
-### 4. Edit Student  
-![Edit Student](screenshots/edit_student.png)
-
-### 5. Postman API Testing  
+### 4. Postman API Testing  
 ![Postman Test](screenshots/postman_test.png)
 
 ---
